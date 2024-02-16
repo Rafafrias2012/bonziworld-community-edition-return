@@ -36,4 +36,4 @@ jobs:
         with:
           project: "deep-robin-91"
           entrypoint: "index.js" # 📝 Update the entrypoint if necessary
-          root: "." # 📝 Update the root if necessary
+          root: "public"
